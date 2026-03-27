@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.18.88.31
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1774546988537
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1774620743556
+  login: 1774620376565
+money: '0'
+last-account-name: Sup3rTh30
+lastlocation:
+  world: 7de6cd05-f15b-4457-8383-39892f9313bd
+  world-name: world
+  x: -1394.5
+  y: 116.0
+  z: -1367.5
+  yaw: -82.79995727539062
+  pitch: 22.04999542236328
+logoutlocation:
+  world: 7de6cd05-f15b-4457-8383-39892f9313bd
+  world-name: world
+  x: -1407.7469398567496
+  y: -36.276027090053375
+  z: -1010.573950798196
+  yaw: -79.947265625
+  pitch: -4.050061225891113
+homes:
+  village:
+    world: 7de6cd05-f15b-4457-8383-39892f9313bd
+    world-name: world
+    x: -1394.5341154865941
+    y: 115.0
+    z: -1362.6198945824183
+    yaw: -85.49983215332031
+    pitch: 74.0999984741211
+  spawner:
+    world: 7de6cd05-f15b-4457-8383-39892f9313bd
+    world-name: world
+    x: -1349.9070555869496
+    y: 96.0
+    z: -1124.851269286139
+    yaw: 150.75830078125
+    pitch: 41.699790954589844

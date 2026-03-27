@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.210.153.41
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1774546595326
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1774547414045
+  login: 1774546474328
+money: '0'
+last-account-name: imeuee
+logoutlocation:
+  world: 7de6cd05-f15b-4457-8383-39892f9313bd
+  world-name: world
+  x: -1410.6408540286563
+  y: 116.63737798666213
+  z: -1351.2403983314266
+  yaw: -115.3487548828125
+  pitch: -7.050044536590576
+lastlocation:
+  world: 7de6cd05-f15b-4457-8383-39892f9313bd
+  world-name: world
+  x: -1369.685163257602
+  y: 117.0
+  z: -1351.2020860191692
+  yaw: -89.5734634399414
+  pitch: 6.449970722198486
+homes:
+  home:
+    world: 7de6cd05-f15b-4457-8383-39892f9313bd
+    world-name: world
+    x: -116.00958541246071
+    y: -25.0
+    z: -1518.1336976329867
+    yaw: 5.399200439453125
+    pitch: 19.649993896484375
+  village:
+    world: 7de6cd05-f15b-4457-8383-39892f9313bd
+    world-name: world
+    x: -1394.4515788530075
+    y: 115.0
+    z: -1362.301069672309
+    yaw: -7.3500213623046875
+    pitch: 27.750001907348633
