@@ -1,9 +1,9 @@
 teleportenabled: true
 teleportauto: false
-godmode: false
+godmode: true
 muted: false
 jailed: false
-ip-address: 84.117.116.2
+ip-address: 192.168.0.99
 afk: false
 socialspy: false
 npc: false
@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1774547390950
+  lastteleport: 1774622694244
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1774547490280
-  login: 1774546051372
+  logout: 1774628363862
+  login: 1774627292914
 money: '0'
 last-account-name: TheLord0fNight
 lastlocation:
   world: 7de6cd05-f15b-4457-8383-39892f9313bd
   world-name: world
-  x: -134.5
-  y: 66.0
-  z: 110.5
-  yaw: 0.0
-  pitch: 0.0
+  x: -1237.7074568908886
+  y: 111.0
+  z: -1345.729025263218
+  yaw: -141.29971313476562
+  pitch: 31.050018310546875
 logoutlocation:
   world: 7de6cd05-f15b-4457-8383-39892f9313bd
   world-name: world
-  x: -1273.3965542827104
-  y: 117.0
-  z: -1271.2109245302493
-  yaw: -42.599918365478516
-  pitch: 20.400009155273438
+  x: -79.92454828810801
+  y: 69.0
+  z: 292.339996781842
+  yaw: -14.546630859375
+  pitch: 23.70020294189453
