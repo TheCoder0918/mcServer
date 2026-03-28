@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1774628363862
-  login: 1774627292914
+  logout: 1774708714165
+  login: 1774708706521
 money: '0'
 last-account-name: TheLord0fNight
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 7de6cd05-f15b-4457-8383-39892f9313bd
   world-name: world
-  x: -79.92454828810801
+  x: -78.63198127481952
   y: 69.0
-  z: 292.339996781842
-  yaw: -14.546630859375
-  pitch: 23.70020294189453
+  z: 293.79481085186444
+  yaw: -17.846771240234375
+  pitch: 44.55019760131836
